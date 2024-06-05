@@ -14,7 +14,7 @@ const Home = () => {
                     Create your professional resume in minutes | Jobseeker
                 </p>
                 <div>
-                    <button><Link to='portfolio' smooth duration={500} className='group flex bg-yellow-500 rounded-xl px-6 py-3 my-2 justify-center items-center mt-4 cursor-auto'>
+                    <button><Link to='portfolio' smooth duration={500} className='group flex bg-yellow-500 rounded-xl gap-2 px-6 py-3 my-2 justify-center items-center mt-4 cursor-auto'>
                         <h4>Portfolio </h4>
                         <span className='group-hover:rotate-90 duration-300'><FaArrowAltCircleRight/></span>
                     </Link></button>

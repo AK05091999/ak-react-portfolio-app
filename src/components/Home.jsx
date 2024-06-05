@@ -6,10 +6,10 @@ import {Link} from "react-scroll";
 
 const Home = () => {
   return (
-    <div name="home" className=' h-screen w-full bg-gradient-to-b from-gray-600 to-blue-500'>
+    <div name="home" className=' h-screen w-full bg-gradient-to-b from-gray-600 to-blue-500 pt-10'>
         <div  className='max-w-screen-lg flex flex-col mx-auto items-center  h-full md:flex-row '> 
             <div className='flex flex-col justify-center h-full mx-4'>
-                <h2 className='text-6xl font-bold my-4 text-white'>I'm Fullstack Developer</h2>
+                <h2 className='text-6xl font-bold my-4 pt-8 text-white'>I'm Fullstack Developer</h2>
                 <p>Full Stack Developer CV In 3 Simple Steps. Choose From +32 CV Templates. Ready In 10 Min! Land Your Dream Job With One Of Our +32 Professional Templates. Create Your CV Right Away!
                     Create your professional resume in minutes | Jobseeker
                 </p>
